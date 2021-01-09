@@ -9,3 +9,10 @@
  - Et ensuite sur **New Termial**
 
  - Et voilà votre console est ouverte !
+
+
+ - Avez vous installer et node.js ?
+
+ - [Installer Node.js](https://nodejs.org/fr/)
+
+ **Note:** De préférence prennez la version LTS !
