@@ -8,6 +8,8 @@ Pour rejoindre : `/join` ou `/rejoindre` ou `/go` ou `/enter`
 
 Pour quitter : `/exit` ou `/quitter` ou `/quitte` ou `/quit` ou `/leave`
 
+## Index
+
 -    [Installation et utilisation](#installation-et-utilisation)
      -    [Configuration du bot](#configuration-du-bot)
      -    [Lancer le Bot](#lancer-le-bot)
