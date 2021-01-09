@@ -1,5 +1,10 @@
 # Discord pour rec vos conversation
 
+Un bot discord pour enregistrer vos conversations dans des vocaux discord
+__Commandes :__
+Pour rejoindre : `/join` ou `/rejoindre` ou `/go` ou `/enter`
+Pour quitter : `/exit` ou `/quitter` ou `/quitte` ou `/quit` ou `/leave`
+
 -    [Installation et utilisation](#installation-et-utilisation)
      -    [Configuration du bot](#configuration-du-bot)
      -    [Lancer le Bot](#lancer-le-bot)
