@@ -8,6 +8,8 @@ Pour rejoindre : `/join` ou `/rejoindre` ou `/go` ou `/enter`
 
 Pour quitter : `/exit` ou `/quitter` ou `/quitte` ou `/quit` ou `/leave`
 
+**Note:** Même commandes juste avec un nom différent.
+
 ## Index
 
 -    [Installation et utilisation](#installation-et-utilisation)
