@@ -30,7 +30,7 @@ git clone https://github.com/TheHuman00/rec-discord-bot
 ```
 
 - Ensuite écriver `npm i` pour télécharger les `node_modules`. ([Si vous ne savez pas comment ouvrir une console allez ici](https://github.com/TheHuman00/rec-discord-bot/blob/master/CONSOLE.md))
-- Ensuite installer [FFmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z). 
+- Ensuite installer FFmpeg
 ([Si vous ne savez pas comment installer FFMPEG allez ici](https://github.com/TheHuman00/rec-discord-bot/blob/master/FFMPEG.md))
 
 ### Configuration du bot
