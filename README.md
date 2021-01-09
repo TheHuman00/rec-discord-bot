@@ -85,9 +85,11 @@ Pour convertir vos ficher *pcm* en fichier *mp3* :
 
 ```
 cd rec
-
+```
+```
 ffmpeg -f s16le -ar 44.1k -ac 2 -i merge.pcm output.mp3
-
+```
+```
 cd ..
 ```
 
