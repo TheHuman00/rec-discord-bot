@@ -1,0 +1,21 @@
+{
+	"name": "discord-voice-recorder",
+	"version": "1.0.0",
+	"description": "Hello mec",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "MOI",
+	"license": "MIT",
+	"engines": {
+		"node": "~12.16.1"
+	},
+	"dependencies": {
+		"@discordjs/opus": "^0.3.3",
+		"discord.js": "^12.5.1",
+		"ffmpeg-static": "^4.2.7",
+		"node-sass": "^5.0.0"
+	}
+}
