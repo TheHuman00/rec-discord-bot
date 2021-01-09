@@ -51,8 +51,6 @@ Lancer votre bot en faisant `npm start`.
 ### Commencer l'enregistrement
 
 ```
-<PREFIX>enter 
-ou
 <PREFIX>join
 ```
 
@@ -62,8 +60,6 @@ ou
 
 ```
 <PREFIX>exit 
-ou
-<PREFIX>quitter
 ```
 
 **Note:** Vous allez entendre un son et cela signifie que l'enregistrement est terminé.
