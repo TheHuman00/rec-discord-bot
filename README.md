@@ -32,11 +32,11 @@ Remplacer les infos dans le config.json :
 }
 ```
 
-### Lancer le Bot
+## Lancer le Bot
 
 Lancer votre bot en faisant `npm start`.
 
-#### Commencer l'enregistrement
+### Commencer l'enregistrement
 
 ```
 <PREFIX>enter 
@@ -46,7 +46,7 @@ ou
 
 **Note:** Vous allez entendre un son et cela signifie que l'enregistrement à commencer.
 
-#### Arreter l'enregistrement
+### Arreter l'enregistrement
 
 ```
 <PREFIX>exit 
@@ -56,7 +56,7 @@ ou
 
 **Note:** Vous allez entendre un son et cela signifie que l'enregistrement est terminé.
 
-### Voir vos enregistrements
+## Voir vos enregistrements
 
 Pour cela écrivez dans votre console :
 
@@ -67,7 +67,7 @@ node ./bin/merge.js
 Cela va créé un fichier se nommant `merge.pcm` dans le dossier : `/rec`.
 
 
-#### Convertire vos fichier en MP3
+### Convertire vos fichier en MP3
 
 Pour convertir vos ficher *pcm* en fichier *mp3* : 
 
