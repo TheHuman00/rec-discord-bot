@@ -1,5 +1,7 @@
 # Ouvrir la console
 
+## Visual Studio
+
  - Installez Visual studio Code [ici](https://code.visualstudio.com/)
 
  - Cliquez au dessus à droite sur **FILE**
@@ -10,8 +12,9 @@
 
  - Et voilà votre console est ouverte !
 
+## Node.js
 
- - Avez vous installer et node.js ?
+Avez vous installer et node.js ?
 
  - [Installer Node.js](https://nodejs.org/fr/)
 
