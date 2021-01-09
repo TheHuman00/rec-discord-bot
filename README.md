@@ -11,17 +11,19 @@
 
 ## Installation et utilisation
 
-Télécharger le code 
+Télécharger le code et mettez le dans un dossier créez pour l'occasion
 Ou faites :  
 ```
-git clone 
+git clone https://github.com/TheHuman00/rec-discord-bot
 ```
 
-Ensuite écriver `npm i` pour télécharger les `node_modules`. Ensuite installer [FFmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z) Si vous ne savez pas comment installer FFMPEG allez ici []()
+- Ensuite écriver `npm i` pour télécharger les `node_modules`. (Si vous ne savez pas comment ouvrir une console allez [ici](https://github.com/TheHuman00/rec-discord-bot/blob/master/CONSOLE.md))
+- Ensuite installer [FFmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z). 
+(Si vous ne savez pas comment installer FFMPEG allez [ici](https://github.com/TheHuman00/rec-discord-bot/blob/master/FFMPEG.md))
 
 ### Configuration du bot
 
-Remplacer les infos dans le config.json
+Remplacer les infos dans le config.json :
 
 ```yaml
 {
@@ -76,10 +78,15 @@ ffmpeg -f s16le -ar 44.1k -ac 2 -i merge.pcm output.mp3
 
 cd ..
 ```
-**Note:** Un ligne à la fois ! Pas toutes les lignes en même temps dans votre console
+
+Et voilà dans le dosier `/rec` se trouve un dossier se nomant output.mp3.
+
+**Note:** Un ligne à la fois ! Pas toutes les lignes en même temps dans votre console.
 
 ## Crédits
 
 [@eslachance](https://github.com/eslachance) Pour [gist](https://gist.github.com/eslachance/fb70fc036183b7974d3b9191601846ba)
+
 et
+
 [@chebro](https://github.com/eslachance) Pour [gist](https://github.com/chebro/discord-voice-recorder)
