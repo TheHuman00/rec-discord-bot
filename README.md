@@ -85,6 +85,6 @@ Et voilà dans le dosier `/rec` se trouve un dossier se nomant output.mp3.
 
 ## Crédits
 
-[@eslachance](https://github.com/eslachance) Pour [gist](https://gist.github.com/eslachance/fb70fc036183b7974d3b9191601846ba)
+[@eslachance](https://github.com/eslachance) pour [gist](https://gist.github.com/eslachance/fb70fc036183b7974d3b9191601846ba)
 
-[@chebro](https://github.com/eslachance) Pour [gist](https://github.com/chebro/discord-voice-recorder)
+[@chebro](https://github.com/eslachance) pour [gist](https://github.com/chebro/discord-voice-recorder)
