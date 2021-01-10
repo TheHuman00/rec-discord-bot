@@ -11,12 +11,12 @@ exports.enter = function(msg) {
 
     // if (!voiceChannel || voiceChannel.type !== 'voice')
     //     return msg.reply(`La channel #${channelName} n'existe pas ou n'est pas un channel vocal.`);
-    console.log(`Connection dans un ${msg.member.voice.name} ...`);
+    console.log(`Connection...`);
     msg.member.voice.channel.join()
         .then(conn => {
 
             const dispatcher = conn.play(__dirname + '/../son/connect.mp3');
-            dispatcher.on('finish', () => { console.log(`Rejoint ${msg.member.voice.name}!\n\nPRET A ENREGISTRER\n`); });
+            dispatcher.on('finish', () => { console.log(`\n\nPRET A ENREGISTRER\n`); });
 
             const receiver = conn.receiver;
             conn.on('speaking', (user, speaking) => {
