@@ -17,5 +17,6 @@
 Avez vous installer et node.js ?
 
  - [Installer Node.js](https://nodejs.org/fr/)
+ - Ensuite lancer le fichier que vous venez de télécharger 
 
  **Note:** De préférence prennez la version LTS !
