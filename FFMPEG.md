@@ -1,7 +1,6 @@
 # Installation FFmpeg
 
  - Installer FFmpeg en cliquant [ici](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z)
- - Ensuite allez dans le dossier bin
 
  - Si ce n'est pas déjà fait ajouter un dossier qui se nomera `PATH_Programs` dans votre disque **C** 
  - Mettez y les 3 fichiers *.exe* que vous avez dans **bin** dans ce que vous venez de télécharger
