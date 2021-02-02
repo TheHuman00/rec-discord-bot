@@ -98,3 +98,14 @@ Et voilà dans le dosier `/rec` se trouve un dossier se nomant output.mp3.
 [@eslachance](https://github.com/eslachance) pour [gist](https://gist.github.com/eslachance/fb70fc036183b7974d3b9191601846ba)
 
 [@chebro](https://github.com/eslachance) pour [gist](https://github.com/chebro/discord-voice-recorder)
+
+## Aide / Support
+
+<div align="center">
+  <a href="https://discord.com/invite/QU5mKFC">
+    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+  </a>
+</div>
+
+Rejoins le serveur discord si tu as besoin d'aide et cherche un certain Guillaume
+
